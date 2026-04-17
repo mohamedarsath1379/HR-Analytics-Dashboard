@@ -163,6 +163,13 @@ HR-Analytics-Dashboard/
 ---
 
 ## Connect With Me
+## Author
+
+**Mohamed Arsath A**
+B.Tech Artificial Intelligence & Data Science
+
+- LinkedIn: [Mohamed Arsath A](https://www.linkedin.com/in/mohamedarsath007)
+- GitHub: [mohamedarsath1379](https://github.com/mohamedarsath1379)
 
 
 ---
